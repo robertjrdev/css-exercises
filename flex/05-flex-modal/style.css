@@ -81,12 +81,11 @@ button.cancel {
   display: flex;
   justify-content: space-between;
   margin-bottom: 5px;
-}
-
-.header {
   font-weight: 700;
   font-size: 20px;
 }
+
+  
 
 .text {
   margin-bottom: 12px;
