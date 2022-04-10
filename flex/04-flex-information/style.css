@@ -1,5 +1,6 @@
 body {
   font-family: 'Courier New', Courier, monospace;
+  text-align: center;
 }
 
 img {
@@ -27,9 +28,9 @@ img {
 
 /* Solution */
 
-.title {
+/* .title {
   text-align: center;
-}
+} */
 
 .container {
   display: flex;
@@ -46,6 +47,6 @@ img {
   align-items: center;
 }
 
-.text {
+/* .text {
  text-align: center;
-}
+} */
